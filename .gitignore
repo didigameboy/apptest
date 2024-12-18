@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 #security google oath
-keys.js
+config/keys.js
